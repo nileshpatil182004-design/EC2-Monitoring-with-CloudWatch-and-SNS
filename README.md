@@ -204,6 +204,9 @@ project-1-cloudwatch-sns/
 
 ![image alt](https://github.com/nileshpatil182004-design/EC2-Monitoring-with-CloudWatch-and-SNS/blob/d3df0751c40d263d0ed6a2017b163014749858d7/Test%20High%20CPU%20Usage%202.png)
 
+## 7. SNS → Email Notification
+
+
 
 
 
