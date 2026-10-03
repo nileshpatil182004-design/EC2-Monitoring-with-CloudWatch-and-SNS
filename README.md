@@ -178,9 +178,33 @@ project-1-cloudwatch-sns/
 ```
 
 ---
-## EC2 Create
+## 1. EC2 Create
 
 ![image alt](https://github.com/nileshpatil182004-design/EC2-Monitoring-with-CloudWatch-and-SNS/blob/641f1d72ce85c1ccac41b9bb9a7cf0abea73b628/EC2%20Instance.png)
+
+## 2. SNS Topic Create
+
+![image alt](https://github.com/nileshpatil182004-design/EC2-Monitoring-with-CloudWatch-and-SNS/blob/4fc66cd6af47c72e707b336c218a3c39a5f71023/SNS%20Topic.png)
+
+## 3. Email Subscription Confirm
+
+![image alt](https://github.com/nileshpatil182004-design/EC2-Monitoring-with-CloudWatch-and-SNS/blob/4fc66cd6af47c72e707b336c218a3c39a5f71023/SNS%20Email%20subscription.png
+
+## 4. CloudWatch CPU Metric
+
+![image alt]
+
+## 5. CloudWatch Alarm Configure
+
+![image alt]
+
+## 6. High CPU Generate → Alarm = ALARM 1
+
+![image alt]
+
+## 7.  High CPU Generate → Alarm = ALARM 2
+
+
 
 
 ## ✅ Expected Result
