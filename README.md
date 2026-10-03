@@ -190,6 +190,23 @@ project-1-cloudwatch-sns/
 
 ![image alt](https://github.com/nileshpatil182004-design/EC2-Monitoring-with-CloudWatch-and-SNS/blob/4fc66cd6af47c72e707b336c218a3c39a5f71023/SNS%20Email%20subscription.png)
 
+## 4. CloudWatch CPU Metric
+
+![image alt](https://github.com/nileshpatil182004-design/EC2-Monitoring-with-CloudWatch-and-SNS/blob/d3df0751c40d263d0ed6a2017b163014749858d7/cloudwatch-metric.png)
+
+## 5. CloudWatch Alarm Configure
+
+![image alt](https://github.com/nileshpatil182004-design/EC2-Monitoring-with-CloudWatch-and-SNS/blob/d3df0751c40d263d0ed6a2017b163014749858d7/CW-alarm%20configuration.png)
+
+## 6. High CPU Generate → Alarm = ALARM 
+
+![image alt](https://github.com/nileshpatil182004-design/EC2-Monitoring-with-CloudWatch-and-SNS/blob/d3df0751c40d263d0ed6a2017b163014749858d7/Test%20High%20CPU%20Usage%201.png)
+
+![image alt](https://github.com/nileshpatil182004-design/EC2-Monitoring-with-CloudWatch-and-SNS/blob/d3df0751c40d263d0ed6a2017b163014749858d7/Test%20High%20CPU%20Usage%202.png)
+
+
+
+
 
 
 ## ✅ Expected Result
