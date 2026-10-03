@@ -206,6 +206,8 @@ project-1-cloudwatch-sns/
 
 ## 7. SNS → Email Notification
 
+![image alt](https://github.com/nileshpatil182004-design/EC2-Monitoring-with-CloudWatch-and-SNS/blob/0dd877bb21b22b76be2905c7c7510534c4606f27/SNS%20Aleart%20Notification.png)
+
 
 
 
