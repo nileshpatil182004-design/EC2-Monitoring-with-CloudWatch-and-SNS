@@ -253,7 +253,7 @@ Through this project, I learned how to:
 
 ## 👨‍💻 Author
 
-**Nilesh Patil**
+**Nilesh Pradeep Patil**
 
 Cloud & DevOps Training Project  
 AWS Project Assignment – Set 4
